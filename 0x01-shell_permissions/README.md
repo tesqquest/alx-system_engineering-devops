@@ -7,3 +7,4 @@
 6-multiple_permissions //Adds multiple permission to the file hello
 7-everybody //Adds execution permission to everybody
 8-Jamesbond //Givens permission to only others
+9-John Doe //Sets the permission to 713
