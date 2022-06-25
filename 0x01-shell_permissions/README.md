@@ -10,3 +10,4 @@
 9-John Doe //Sets the permission to 713
 10-mirror_permissions //Sets permission to 664
 11-directories_permissions /Adds exec permission to all sub directories
+12-director_permission //Create a directory set permission 751
