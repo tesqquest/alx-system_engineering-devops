@@ -8,3 +8,4 @@
 7-everybody //Adds execution permission to everybody
 8-Jamesbond //Givens permission to only others
 9-John Doe //Sets the permission to 713
+10-mirror_permissions //Sets permission to 664
